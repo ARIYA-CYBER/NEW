@@ -5,4 +5,4 @@
 # pkg install git
 # git clone https://github.com/ARIYA-CYBER/NEW
 # cd NEW
-# python2 NEW.py
+# python2 FbNew.py
